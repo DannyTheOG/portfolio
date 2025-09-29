@@ -30,7 +30,7 @@ jobs:
       #   run: npm test
       - name: Configure Git user
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "26109746+DannyTheOG@users.noreply.github.com"
           git config --global user.name "DannyTheOG"
 
       - name: Deploy to GitHub Pages
