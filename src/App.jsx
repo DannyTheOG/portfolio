@@ -5,6 +5,7 @@ import { MobileMenu } from "./components/mobile-menu";
 import { Home } from "./pages/home";
 import { About } from "./pages/about";
 import { Project } from "./pages/project";
+import { Contact } from "./pages/contact";
 
 import "./App.css";
 import "./index.css";
@@ -31,6 +32,7 @@ function App() {
         <Home />
         <About />
         <Project />
+        <Contact />
       </div>
     </>
   )

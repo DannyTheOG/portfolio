@@ -28,7 +28,7 @@ export const About = () => {
           <div className="max-w-3xl mx-auto px-4">
             <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r 
               from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"
-              >
+            >
               The Journey So Far
             </h2>
 
